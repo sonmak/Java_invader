@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PROZE21Z_Makarenka:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PROZE21Z_Makarenka_jar</output-path>
+    <root id="archive" name="PROZE21Z_Makarenka.jar">
+      <element id="module-output" name="PROZE21Z_Makarenka" />
+    </root>
+  </artifact>
+</component>

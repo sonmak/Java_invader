@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <GameFieldWidth>500</GameFieldWidth>
+    <GameFieldHeight>700</GameFieldHeight>
+    <Timer>100</Timer>
+    <LevelAmount>3</LevelAmount>
+    <StartBTNtext>Start</StartBTNtext>
+    <EndBTNtext>Quit</EndBTNtext>
+</config>
